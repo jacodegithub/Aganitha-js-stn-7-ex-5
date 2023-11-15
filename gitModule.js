@@ -1,5 +1,5 @@
-const addThenMultiply = a => b => a * b;
+export const addThenMultiply = a => b => a * b;
 
-module.exports = {
-    addThenMultiply
-}
+// module.exports = {
+//     addThenMultiply
+// }
